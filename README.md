@@ -2,7 +2,7 @@
 
   ## O que foi desenvolvido 👨‍💻 
 
-  - Nesse projeto escrevi testes para uma aplicação React já criada e configurada, onde para cada requisito listado, escrevi testes que garantiram sua corretude utilizando [`Jest`](https://jestjs.io/) e a biblioteca [`React Testing Library`](https://testing-library.com/).
+  Nesse projeto escrevi testes para uma aplicação React já criada e configurada, onde para cada requisito listado, escrevi testes que garantiram sua corretude utilizando [`Jest`](https://jestjs.io/) e a biblioteca [`React Testing Library`](https://testing-library.com/).
 
   E para verificar os testes criados, foi utilizado o STRYKER, que inseria bugs e mutações nos códigos para averiguar a assertividade deles, impedindo os "falsos positivos" e "falsos negativos".
  
@@ -185,5 +185,5 @@
 
     - O `label` do `checkbox` deve conter o texto `Pokémon favoritado?`.
   </details>
-  
+
   ---
